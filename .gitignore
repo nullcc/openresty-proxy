@@ -8,3 +8,4 @@ config/domains/*.conf
 config/certs/*.crt
 config/certs/*.key
 logs/*.log
+!config/domains/sample.com.conf
